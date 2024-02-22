@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\bin\Debug\net8.0\EvenOfDigits.exe
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\bin\Debug\net8.0\EvenOfDigits.deps.json
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\bin\Debug\net8.0\EvenOfDigits.runtimeconfig.json
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\bin\Debug\net8.0\EvenOfDigits.dll
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\bin\Debug\net8.0\EvenOfDigits.pdb
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\obj\Debug\net8.0\EvenOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\obj\Debug\net8.0\EvenOfDigits.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\obj\Debug\net8.0\EvenOfDigits.AssemblyInfo.cs
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\obj\Debug\net8.0\EvenOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\obj\Debug\net8.0\EvenOfDigits.sourcelink.json
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\obj\Debug\net8.0\EvenOfDigits.dll
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\obj\Debug\net8.0\refint\EvenOfDigits.dll
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\obj\Debug\net8.0\EvenOfDigits.pdb
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\obj\Debug\net8.0\EvenOfDigits.genruntimeconfig.cache
+C:\Users\user\Desktop\Coding\Lesson4\EvenOfDigits\obj\Debug\net8.0\ref\EvenOfDigits.dll
