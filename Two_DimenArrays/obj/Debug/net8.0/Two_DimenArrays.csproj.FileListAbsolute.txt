@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\obj\Debug\net8.0\Two_DimenArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\obj\Debug\net8.0\Two_DimenArrays.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\obj\Debug\net8.0\Two_DimenArrays.AssemblyInfo.cs
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\obj\Debug\net8.0\Two_DimenArrays.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\obj\Debug\net8.0\Two_DimenArrays.sourcelink.json
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\bin\Debug\net8.0\Two_DimenArrays.exe
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\bin\Debug\net8.0\Two_DimenArrays.deps.json
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\bin\Debug\net8.0\Two_DimenArrays.runtimeconfig.json
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\bin\Debug\net8.0\Two_DimenArrays.dll
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\bin\Debug\net8.0\Two_DimenArrays.pdb
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\obj\Debug\net8.0\Two_DimenArrays.dll
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\obj\Debug\net8.0\refint\Two_DimenArrays.dll
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\obj\Debug\net8.0\Two_DimenArrays.pdb
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\obj\Debug\net8.0\Two_DimenArrays.genruntimeconfig.cache
+C:\Users\user\Desktop\Coding\Lesson4\Two_DimenArrays\obj\Debug\net8.0\ref\Two_DimenArrays.dll
